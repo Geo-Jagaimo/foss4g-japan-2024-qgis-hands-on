@@ -1,0 +1,1 @@
+# foss4g-japan-2024-qgis-hands-on
